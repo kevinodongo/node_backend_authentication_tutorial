@@ -15,7 +15,7 @@
     "MongoDB"
   ],
   "author": "Kevin Odongo",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.848.0",
     "body-parser": "^1.19.0",
